@@ -1,0 +1,384 @@
+aravinda@aravinda-desktop:~/Desktop/Task/logs_taks$ python tmp.py
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ c.f.figo.gateway.FigoErrorHandler An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}
+
+ERROR
+ o.a.c.c.C.[.[.[.[dispatcherServlet] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.finreach.figo.gateway.FigoClientException: An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}] with root cause
+
+ERROR
+ c.f.figo.gateway.FigoErrorHandler An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}
+
+ERROR
+ o.a.c.c.C.[.[.[.[dispatcherServlet] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.finreach.figo.gateway.FigoClientException: An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}] with root cause
+
+ERROR
+ c.f.figo.gateway.FigoErrorHandler An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}
+
+ERROR
+ o.a.c.c.C.[.[.[.[dispatcherServlet] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.finreach.figo.gateway.FigoClientException: An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}] with root cause
+
+ERROR
+ c.f.figo.gateway.FigoErrorHandler An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}
+
+ERROR
+ o.a.c.c.C.[.[.[.[dispatcherServlet] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.finreach.figo.gateway.FigoClientException: An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}] with root cause
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ c.f.figo.gateway.FigoErrorHandler An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}
+
+ERROR
+ o.a.c.c.C.[.[.[.[dispatcherServlet] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.finreach.figo.gateway.FigoClientException: An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}] with root cause
+
+ERROR
+ c.f.figo.gateway.FigoErrorHandler An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}
+
+ERROR
+ o.a.c.c.C.[.[.[.[dispatcherServlet] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.finreach.figo.gateway.FigoClientException: An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}] with root cause
+
+ERROR
+ c.f.figo.gateway.FigoErrorHandler An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}
+
+ERROR
+ o.a.c.c.C.[.[.[.[dispatcherServlet] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.finreach.figo.gateway.FigoClientException: An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}] with root cause
+
+ERROR
+ c.f.figo.gateway.FigoErrorHandler An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}
+
+ERROR
+ o.a.c.c.C.[.[.[.[dispatcherServlet] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.finreach.figo.gateway.FigoClientException: An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}] with root cause
+
+ERROR
+ c.f.figo.gateway.FigoErrorHandler An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}
+
+ERROR
+ o.a.c.c.C.[.[.[.[dispatcherServlet] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.finreach.figo.gateway.FigoClientException: An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}] with root cause
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ c.f.figo.gateway.FigoErrorHandler An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}
+
+ERROR
+ o.a.c.c.C.[.[.[.[dispatcherServlet] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.finreach.figo.gateway.FigoClientException: An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}] with root cause
+
+ERROR
+ c.f.figo.gateway.FigoErrorHandler An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}
+
+ERROR
+ o.a.c.c.C.[.[.[.[dispatcherServlet] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.finreach.figo.gateway.FigoClientException: An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}] with root cause
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ c.f.figo.gateway.FigoErrorHandler An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}
+
+ERROR
+ o.a.c.c.C.[.[.[.[dispatcherServlet] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.finreach.figo.gateway.FigoClientException: An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}] with root cause
+
+ERROR
+ c.f.figo.gateway.FigoErrorHandler An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}
+
+ERROR
+ o.a.c.c.C.[.[.[.[dispatcherServlet] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.finreach.figo.gateway.FigoClientException: An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}] with root cause
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ c.f.figo.gateway.FigoErrorHandler An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}
+
+ERROR
+ o.a.c.c.C.[.[.[.[dispatcherServlet] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.finreach.figo.gateway.FigoClientException: An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}] with root cause
+
+ERROR
+ c.f.figo.gateway.FigoErrorHandler An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}
+
+ERROR
+ o.a.c.c.C.[.[.[.[dispatcherServlet] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.finreach.figo.gateway.FigoClientException: An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}] with root cause
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ c.f.figo.gateway.FigoErrorHandler An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}
+
+ERROR
+ o.a.c.c.C.[.[.[.[dispatcherServlet] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.finreach.figo.gateway.FigoClientException: An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}] with root cause
+
+ERROR
+ c.f.figo.gateway.FigoErrorHandler An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}
+
+ERROR
+ o.a.c.c.C.[.[.[.[dispatcherServlet] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.finreach.figo.gateway.FigoClientException: An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}] with root cause
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ o.s.i.handler.LoggingHandler org.springframework.web.client.HttpClientErrorException: 401 Unauthorized
+
+ERROR
+ c.f.figo.gateway.FigoErrorHandler An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}
+
+ERROR
+ o.a.c.c.C.[.[.[.[dispatcherServlet] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.finreach.figo.gateway.FigoClientException: An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}] with root cause
+
+ERROR
+ c.f.figo.gateway.FigoErrorHandler An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}
+
+ERROR
+ o.a.c.c.C.[.[.[.[dispatcherServlet] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.finreach.figo.gateway.FigoClientException: An error occurred while communicating with Figo, reason: FigoError{code=40001, description='Bank unknown', group='figo', message='This bank code is unknown to us, or doesn't operate in this country.', name='Not Found'}] with root cause
+
+TOTAL ERRORS:127
+UNIQUE ERRORS:3
